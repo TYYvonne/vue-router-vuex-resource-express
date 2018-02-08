@@ -3,6 +3,7 @@
 ### 项目简介
 *  使用vue-router 组织页面
 *  使用vuex 提供的全局状态管理，实现跨组件的购物车demo
+*  使用 vuex 提供的全局状态管理，实现跨组件的购物车demo
 *  使用 vue-resource 模拟开发环境，申请数据 完成了form组件中的表单回填，数据验证，提交等操作；
 *  使用 express 本地模拟 mock
 
